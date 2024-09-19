@@ -11,7 +11,17 @@ Download the background.js and manifest.json files from this repository.
 
 Make a new folder somewhere in your computer, and add the 2 files you just downloaded into that folder.
 
-Open up a chrome browser. Go to chrome://extensions/. Enable developer mode in the top right. Click the 'Load upacked' button in the top right. Navigate to the folder holding the two files. With the folder selected, click 'Select Folder'.
+Open up a chrome browser. 
+
+Go to chrome://extensions/. 
+
+Enable developer mode in the top right. 
+
+Click the 'Load upacked' button in the top right. 
+
+Navigate to the folder holding the two files. 
+
+With the folder selected, click 'Select Folder'.
 ![image](https://github.com/user-attachments/assets/f6abf6e1-f28d-431c-82a7-687c9ca7f440)
 
 Go ahead, try to open a 4th tab ;)
