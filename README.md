@@ -13,7 +13,7 @@ Make a new folder somewhere in your computer, and add the 2 files you just downl
 
 Open up a chrome browser. 
 
-Go to [chrome://extensions/](chrome://extensions/).
+Go to 'chrome://extensions/'
 
 Enable developer mode in the top right. 
 
