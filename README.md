@@ -1,5 +1,5 @@
 # 3tabs
-Chrome extensions that limits your chrome browser to no more than three tabs.
+Chrome extension that limits your chrome browser to no more than three tabs.
 
 When you try to open a 4th tab it literally just closes the window entirely.
 
